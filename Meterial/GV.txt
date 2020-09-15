@@ -1,0 +1,5 @@
+ID: emp01 Name: Pham A Specialist: CNPM
+ID: emp02 Name: Pham B Specialist: CNPM
+ID: emp03 Name: Pham C Specialist: KTMT
+ID: emp04 Name: Pham D Specialist: KHMT
+ID: emp005 Name: Nguyen Tan Hai Specialist: MCLE

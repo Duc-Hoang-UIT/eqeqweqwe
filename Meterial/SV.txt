@@ -1,0 +1,5 @@
+ID: 19521542 Name: Pham Hoang DiemToan: 9 DiemVan: 9 
+ID: 19521541 Name: Pham Le DiemToan: 8 DiemVan: 9 
+ID: 19521543 Name: Pham D DiemToan: 7 DiemVan: 6 
+ID: 19321542 Name: Pham C DiemToan: 5 DiemVan: 9 
+ID: 19301542 Name: Pham E DiemToan: 10 DiemVan: 9 

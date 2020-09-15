@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "ConsoleOOP_02"
+		},
+		{
+			"path": "Library"
+		}
+	],
+	"settings": {
+		"powershell.codeFormatting.addWhitespaceAroundPipe": true
+	}
+}

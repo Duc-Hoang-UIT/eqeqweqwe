@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\bin\Debug\netcoreapp3.1\ConsoleOOP_02.exe
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\bin\Debug\netcoreapp3.1\ConsoleOOP_02.deps.json
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\bin\Debug\netcoreapp3.1\ConsoleOOP_02.runtimeconfig.json
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\bin\Debug\netcoreapp3.1\ConsoleOOP_02.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\bin\Debug\netcoreapp3.1\ConsoleOOP_02.dll
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\bin\Debug\netcoreapp3.1\ConsoleOOP_02.pdb
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\obj\Debug\netcoreapp3.1\ConsoleOOP_02.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\obj\Debug\netcoreapp3.1\ConsoleOOP_02.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\obj\Debug\netcoreapp3.1\ConsoleOOP_02.AssemblyInfo.cs
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\obj\Debug\netcoreapp3.1\ConsoleOOP_02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\obj\Debug\netcoreapp3.1\ConsoleOOP_02.csproj.CopyComplete
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\obj\Debug\netcoreapp3.1\ConsoleOOP_02.dll
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\obj\Debug\netcoreapp3.1\ConsoleOOP_02.pdb
+C:\Users\Admin\Desktop\19521542_Pham_Duc_Hoang\ConsoleOOP_02\obj\Debug\netcoreapp3.1\ConsoleOOP_02.genruntimeconfig.cache

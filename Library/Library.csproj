@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Person.cs" />
+    <Content Include="Student.cs" />
+    <Content Include="Employee.cs" />
+    <Content Include="StudentCompareable.cs" />
+    <Content Include="StudentComparer.cs" />
+    <Content Include="NewListStudentComparer.cs" />
+    <Content Include="NewStudentComparer.cs" />
+    <Content Include=".vscode\launch.json" />
+  </ItemGroup>
+</Project>
